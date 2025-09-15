@@ -7,7 +7,7 @@ I'm Unnati Uniyal.
 I'm an *Engineering graduate* exploring AI, ML, and Software Development.  
 
 Currently, I'm building projects in Java, C and Python.
-I'm a tech enthusiast always eagar to learn and put my learnings to work.
+I’m a tech enthusiast, always learning and finding ways to turn ideas into code.
 
 #### My Tech Stack 
 - **Languages:** Python, Java, C, SQL (basic)
