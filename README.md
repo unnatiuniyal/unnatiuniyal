@@ -13,3 +13,5 @@ I’m a tech enthusiast, always learning and finding ways to turn ideas into cod
 - **Languages:** Python, Java, C, SQL (basic)
 - **Libraries/Frameworks:** Pandas, NumPy, Prophet  
 - **Other tools:** Streamlit
+
+When I’m not coding, you’ll find me reading, sketching, dancing, or writing on Medium.
