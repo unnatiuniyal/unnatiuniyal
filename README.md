@@ -1,4 +1,4 @@
-# Hi there ![Wave](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFqZzQwbGhtN3I5MHhoZDB5NXh4djc1dm5lemloOHFqbGNwZDJjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ujrj9aoOdNvXO/giphy.gif)
+## Hi there! ![Wave](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFqZzQwbGhtN3I5MHhoZDB5NXh4djc1dm5lemloOHFqbGNwZDJjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ujrj9aoOdNvXO/giphy.gif)
 
 ⚡ *Learning. Then unlearning. Then really learning.* ⚡
 
